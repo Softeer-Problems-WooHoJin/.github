@@ -36,7 +36,7 @@ https://softeer.ai/app
 | SQL-WHJ-4 | 문제 개발 완료     |
 | SQL-WHJ-5 | 문제 개발 완료    |
 | SQL-WHJ-6 | 문제 개발 완료     |
-| SQL-WHJ-7 | 수정 필요     |
+| SQL-WHJ-7 | 문제 개발 완료     |
 | SQL-WHJ-8 | 문제 개발 완료     |
 | SQL-WHJ-9 | 문제 개발 완료     |
 | SQL-WHJ-10 | 문제 개발 완료     |
