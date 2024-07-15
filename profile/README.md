@@ -56,27 +56,27 @@ https://softeer.ai/app
 | SQL-WHJ-24 | 문제 개발 완료     |
 | SQL-WHJ-25 | 문제 개발 완료     |
 | SQL-WHJ-26 | 문제 개발 완료     |
-| SQL-WHJ-27 |수정 필요     |
-| SQL-WHJ-28 |수정 필요     |
-| SQL-WHJ-29 | 수정 필요    |
-| SQL-WHJ-30 | 수정 필요      |
-| SQL-WHJ-31 | 수정 필요     |
-| SQL-WHJ-32 | 수정 필요    |
-| SQL-WHJ-33 | 수정 필요     |
-| SQL-WHJ-34 | 수정 필요        |
-| SQL-WHJ-35 |수정 필요      |
-| SQL-WHJ-36 | 수정 필요     |
-| SQL-WHJ-37 |수정 필요       |
-| SQL-WHJ-38 | 수정 필요       |
-| SQL-WHJ-39 | 수정 필요       |
-| SQL-WHJ-40 | 수정 필요      |
-| SQL-WHJ-41 | 수정 필요    |
-| SQL-WHJ-42 | 수정 필요      |
-| SQL-WHJ-43 | 수정 필요       |
-| SQL-WHJ-44 |수정 필요      |
-| SQL-WHJ-45 | 수정 필요     |
-| SQL-WHJ-46 | 수정 필요      |
-| SQL-WHJ-47 | 수정 필요       |
-| SQL-WHJ-48 | 수정 필요      |
-| SQL-WHJ-49 | 수정 필요      |
-| SQL-WHJ-50 | 수정 필요      |
+| SQL-WHJ-27 |문제 개발 완료     |
+| SQL-WHJ-28 |문제 개발 완료     |
+| SQL-WHJ-29 | 문제 개발 완료    |
+| SQL-WHJ-30 | 문제 개발 완료     |
+| SQL-WHJ-31 | 문제 개발 완료     |
+| SQL-WHJ-32 | 문제 개발 완료    |
+| SQL-WHJ-33 | 문제 개발 완료     |
+| SQL-WHJ-34 | 문제 개발 완료        |
+| SQL-WHJ-35 |문제 개발 완료      |
+| SQL-WHJ-36 | 문제 개발 완료     |
+| SQL-WHJ-37 |문제 개발 완료       |
+| SQL-WHJ-38 | 문제 개발 완료       |
+| SQL-WHJ-39 | 문제 개발 완료       |
+| SQL-WHJ-40 | 문제 개발 완료      |
+| SQL-WHJ-41 | 문제 개발 완료    |
+| SQL-WHJ-42 | 문제 개발 완료      |
+| SQL-WHJ-43 | 문제 개발 완료       |
+| SQL-WHJ-44 |문제 개발 완료      |
+| SQL-WHJ-45 | 문제 개발 완료     |
+| SQL-WHJ-46 | 문제 개발 완료     |
+| SQL-WHJ-47 | 문제 개발 완료       |
+| SQL-WHJ-48 | 문제 개발 완료      |
+| SQL-WHJ-49 |문제 개발 완료      |
+| SQL-WHJ-50 | 문제 개발 완료     |
